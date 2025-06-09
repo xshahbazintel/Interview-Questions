@@ -1,0 +1,12 @@
+source: base image on which customisation is made
+build: place where you do customisations on your base image
+provisioners: builtin and 3rd party plugins to run customisations during build block
+communicator: communication provider to run commands during building image, eg: ssh, winrm
+postprocessor: 
+
+
+packer inspect
+packer validate
+packer hcl2_upgrade   #converts packer json file to hcl template
+
+

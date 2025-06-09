@@ -1,0 +1,5 @@
+Control Node: The machine from which you run the Ansible CLI tools (ansible-playbook , ansible, ansible-vault and others)
+Managed Nodes: Also referred to as ‘hosts’, these are the target devices (servers, network appliances or any computer) you aim to manage with Ansible.
+Inventory: List of managed of managed nodes, this can be grouped further
+Playbooks: They contain Plays (which are the basic unit of Ansible execution), there can be one or more plays. each play has tasks section under which individual task is present
+Tasks: The definition of an ‘action’ to be applied to the managed host/hosts
