@@ -40,3 +40,6 @@ If any of the N units fail, the spare (the "+1") can take over to maintain opera
 In a 2N configuration, there are exactly double the number of units needed to support the system, meaning for every essential component, there is a fully functional backup available.
 
 
+what is enpoint and endpoint services in aws
+what are security services in aws, explain aws gaurd duty and aws inspector
+
